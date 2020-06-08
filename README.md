@@ -32,9 +32,9 @@ In order to download and run the application it is necessary to follow the next 
 
 1. Installing necessary packages
 ```
-$ sudo apt install git
-$ sudo apt install python3-pip
-$ sudo apt-get install python3-venv
+sudo apt install git
+sudo apt install python3-pip
+sudo apt-get install python3-venv
 ```
 
 2. Downloading application from GitHub
