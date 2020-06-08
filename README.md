@@ -34,7 +34,6 @@ In order to download and run the application it is necessary to follow the next 
 ```
 $ sudo apt install git
 $ sudo apt install python3-pip
-$ sudo apt install mysql-server
 $ sudo apt-get install python3-venv
 ```
 
