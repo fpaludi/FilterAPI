@@ -5,7 +5,8 @@ This API is used to filter countries with a life satisfaction indexes greater th
 ## API file structure
 The file structure is shown next:
 
-FilterAPI
+FilterAPI  
+│  
 ├── top_app.py  
 ├── app_config.py  
 ├── README.md  
@@ -22,7 +23,7 @@ FilterAPI
 │       ├── test_models.py  
 │       └── test_views.py  
 ├── utils  
-│   └── explore_data.ipynb  
+    └── explore_data.ipynb  
 
 
 ## Run the application
