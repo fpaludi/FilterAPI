@@ -41,12 +41,14 @@ sudo apt-get install python3-venv
 ```
 mkdir try_app
 cd try_app
-git clone 
+git clone https://github.com/fpaludi/FilterAPI.git
+cd FilterAPI
 ```
 
 3. Creating python virtual environment and installing dependencies
 ```
-python3.7 -m venv venv
+python3 -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
