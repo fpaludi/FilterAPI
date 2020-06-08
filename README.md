@@ -6,26 +6,23 @@ This API is used to filter countries with a life satisfaction indexes greater th
 The file structure is shown next:
 
 FilterAPI
-├── top_app.py
-├── app_config.py
-├── README.md
-├── requirements.txt
-├── api
-│   ├── data
-│   │   └── BLI_28032019144925238.csv
-│   ├── __init__.py
-│   ├── models.py
-│   ├── templates
-│   │   └── index.html
-│   └── views.py
-├── tests
-│   ├── __init__.py
-│   └── unit
-│       ├── __init__.py
-│       ├── test_models.py
-│       └── test_views.py
-├── utils
-│   └── explore_data.ipynb
+├── top_app.py  
+├── app_config.py  
+├── README.md  
+├── requirements.txt  
+├── api  
+│   ├── data  
+│   │   └── BLI_28032019144925238.csv  
+│   ├── models.py  
+│   ├── templates  
+│   │   └── index.html  
+│   └── views.py  
+├── tests  
+│   └── unit  
+│       ├── test_models.py  
+│       └── test_views.py  
+├── utils  
+│   └── explore_data.ipynb  
 
 
 ## Run the application
